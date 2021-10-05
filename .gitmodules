@@ -1,0 +1,9 @@
+[submodule "ratings-challenge-v1"]
+	path = ratings-challenge-v1
+	url = https://github.com/Ke-v/ratings-challenge-v1
+[submodule "ratings-challenge-v2"]
+	path = ratings-challenge-v2
+	url = https://github.com/Ke-v/ratings-challenge-v2
+[submodule "ratings_backend"]
+	path = ratings_backend
+	url = https://github.com/Ke-v/ratings_backend
